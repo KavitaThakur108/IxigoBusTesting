@@ -2,7 +2,11 @@ Overview
 
 This project automates the testing of the Ixigo Bus Booking feature using Selenium WebDriver, TestNG, and Cucumber (BDD). It validates critical functionalities such as seat selection, traveler details, payment gateway, insurance addition, and offer code application.
 -------------------------------------------------------------------------------------------------------------------------------------
- 
+
+**Manual Testing**
+A manual testing document is also included for reference. Five testcases highlighted in manual file has been used for automation testing.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
 **Tech Stack**
 
 -Java (Core language)
