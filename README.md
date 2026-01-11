@@ -11,18 +11,26 @@ A manual testing document is also included for reference. Five testcases highlig
 **Tech Stack**
 
 1.Java (Core language)
+
 2.Selenium WebDriver (UI Automation)
+
 3.TestNG (Test execution and reporting)
+
 4.Cucumber (Behavior Driven Development)
+
 5.Maven (Build and dependency management)
+
 6.Excel (Data-driven testing)
+
 7.Page Object Model (POM) (Design pattern) along with Page Factory
 
 --------------------------------------------------------------------------------------------------------------------------------------
 **Data**
 
 1.Excel
+
 2.DataProvider
+
 3.Object Repository
 
 --------------------------------------------------------------------------------------------------------------------------------------
