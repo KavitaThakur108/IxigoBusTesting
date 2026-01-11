@@ -4,25 +4,26 @@ This project automates the testing of the Ixigo Bus Booking feature using Seleni
 -------------------------------------------------------------------------------------------------------------------------------------
 
 **Manual Testing**
+
 A manual testing document is also included for reference. Five testcases highlighted in manual file has been used for automation testing.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 **Tech Stack**
 
--Java (Core language)
--Selenium WebDriver (UI Automation)
--TestNG (Test execution and reporting)
--Cucumber (Behavior Driven Development)
--Maven (Build and dependency management)
--Excel (Data-driven testing)
--Page Object Model (POM) (Design pattern) along with Page Factory
+1.Java (Core language)
+2.Selenium WebDriver (UI Automation)
+3.TestNG (Test execution and reporting)
+4.Cucumber (Behavior Driven Development)
+5.Maven (Build and dependency management)
+6.Excel (Data-driven testing)
+7.Page Object Model (POM) (Design pattern) along with Page Factory
 
 --------------------------------------------------------------------------------------------------------------------------------------
 **Data**
 
--Excel
--DataProvider
--Object Repository
+1.Excel
+2.DataProvider
+3.Object Repository
 
 --------------------------------------------------------------------------------------------------------------------------------------
 **Features Tested**
